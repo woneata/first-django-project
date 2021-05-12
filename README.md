@@ -1,1 +1,2 @@
-# first-django-project django_project.png
+# first-django-project
+django_project.png
